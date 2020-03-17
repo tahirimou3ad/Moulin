@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1578753187 source:c:\users\mouad\desktop\jeu_du_moulin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Prototypes.h"
+	"functions.c"
+
+1580746892 c:\users\mouad\desktop\jeu_du_moulin\prototypes.h
+
+1580746892 c:\users\mouad\desktop\jeu_du_moulin\functions.c
+	"Prototypes.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
